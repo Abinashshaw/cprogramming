@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cprogramming" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cprogramming" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cprogramming" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="prog.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program10.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program12.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program13.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program14.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program15.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program16.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program17.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program18.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program19.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program20.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program22.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program23.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program24.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program25.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program26.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program27.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program28.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program29.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program30.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program33.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program34.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program35.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program39.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program40.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program41.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program42.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program43.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program44.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program45.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program6.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program7.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="program9.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

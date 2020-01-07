@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1541423043 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1541077936 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program1.c
+	<stdio.h>
+
+1541079106 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program2.c
+	<stdio.h>
+
+1541079387 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program3.c
+	<stdio.h>
+
+1541079733 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program4.c
+	<stdio.h>
+
+1541080363 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program5.c
+	<stdio.h>
+
+1541081902 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program6.c
+	<stdio.h>
+	<math.h>
+
+1541082238 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program7.c
+
+1541138575 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program8.c
+	<stdio.h>
+	<math.h>
+
+1541087860 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\prog.c
+	<stdio.h>
+	<string.h>
+
+1541139070 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program9.c
+
+1541139356 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program10.c
+	<stdio.h>
+
+1541141995 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program11.c
+	<stdio.h>
+
+1541157840 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program12.c
+	<stdio.h>
+
+1541231720 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program13.c
+	<stdio.h>
+
+1541232047 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program14.c
+	<stdio.h>
+
+1541232874 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program15.c
+	<stdio.h>
+
+1541234106 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program16.c
+	<stdio.h>
+	<string.h>
+
+1541251398 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program17.c
+	<stdio.h>
+
+1541252270 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program18.c
+	<stdio.h>
+
+1541330111 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program19.c
+	<stdio.h>
+
+1541333060 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program20.c
+	<stdio.h>
+	<string.h>
+
+1541334150 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program21.c
+	<stdio.h>
+
+1541334622 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program22.c
+	<stdio.h>
+
+1541335093 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program23.c
+	<stdio.h>
+
+1541336930 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program24.c
+	<stdio.h>
+
+1541337784 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program25.c
+	<stdio.h>
+	<math.h>
+
+1541338540 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program26.c
+	<stdio.h>
+
+1541339835 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program27.c
+	<stdio.h>
+
+1541397118 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program28.c
+	<stdio.h>
+
+1541397612 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program29.c
+	<stdio.h>
+
+1541398400 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program30.c
+	<stdio.h>
+
+1541403260 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program31.c
+	<stdio.h>
+
+1541403849 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program32.c
+	<stdio.h>
+
+1541404449 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program33.c
+	<stdio.h>
+
+1541404442 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program34.c
+	<stdio.h>
+
+1541408076 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program35.c
+	<stdio.h>
+
+1541413582 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program36.c
+	<stdio.h>
+	<math.h>
+
+1541417959 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program40.c
+	<stdio.h>
+
+1541413582 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program39.c
+	<stdio.h>
+	<math.h>
+
+1541419689 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program41.c
+	<stdio.h>
+
+1541421232 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program42.c
+	<stdio.h>
+
+1541421924 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program43.c
+	<stdio.h>
+
+1541422345 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program44.c
+	<stdio.h>
+
+1541423036 source:c:\users\abinash kumar shaw\documents\code blocks\cprogramming\program45.c
+	<stdio.h>
+
+1541087860 source:d:\self\code blocks\cprogramming\prog.c
+	<stdio.h>
+	<string.h>
+
+1541077936 source:d:\self\code blocks\cprogramming\program1.c
+	<stdio.h>
+
+1541139356 source:d:\self\code blocks\cprogramming\program10.c
+	<stdio.h>
+
+1541141995 source:d:\self\code blocks\cprogramming\program11.c
+	<stdio.h>
+
+1541157840 source:d:\self\code blocks\cprogramming\program12.c
+	<stdio.h>
+
+1541231720 source:d:\self\code blocks\cprogramming\program13.c
+	<stdio.h>
+
+1541232047 source:d:\self\code blocks\cprogramming\program14.c
+	<stdio.h>
+
+1541232874 source:d:\self\code blocks\cprogramming\program15.c
+	<stdio.h>
+
+1541234106 source:d:\self\code blocks\cprogramming\program16.c
+	<stdio.h>
+	<string.h>
+
+1541251398 source:d:\self\code blocks\cprogramming\program17.c
+	<stdio.h>
+
+1541252270 source:d:\self\code blocks\cprogramming\program18.c
+	<stdio.h>
+
+1541330111 source:d:\self\code blocks\cprogramming\program19.c
+	<stdio.h>
+
+1541079106 source:d:\self\code blocks\cprogramming\program2.c
+	<stdio.h>
+
+1541333060 source:d:\self\code blocks\cprogramming\program20.c
+	<stdio.h>
+	<string.h>
+
+1541334150 source:d:\self\code blocks\cprogramming\program21.c
+	<stdio.h>
+
+1541334622 source:d:\self\code blocks\cprogramming\program22.c
+	<stdio.h>
+
+1541335093 source:d:\self\code blocks\cprogramming\program23.c
+	<stdio.h>
+
+1541336930 source:d:\self\code blocks\cprogramming\program24.c
+	<stdio.h>
+
+1541337784 source:d:\self\code blocks\cprogramming\program25.c
+	<stdio.h>
+	<math.h>
+
+1541338540 source:d:\self\code blocks\cprogramming\program26.c
+	<stdio.h>
+
+1541339835 source:d:\self\code blocks\cprogramming\program27.c
+	<stdio.h>
+
+1541397118 source:d:\self\code blocks\cprogramming\program28.c
+	<stdio.h>
+
+1541397612 source:d:\self\code blocks\cprogramming\program29.c
+	<stdio.h>
+
+1541079387 source:d:\self\code blocks\cprogramming\program3.c
+	<stdio.h>
+
+1541398400 source:d:\self\code blocks\cprogramming\program30.c
+	<stdio.h>
+
+1541404449 source:d:\self\code blocks\cprogramming\program33.c
+	<stdio.h>
+
+1541404442 source:d:\self\code blocks\cprogramming\program34.c
+	<stdio.h>
+
+1541408076 source:d:\self\code blocks\cprogramming\program35.c
+	<stdio.h>
+
+1541413582 source:d:\self\code blocks\cprogramming\program39.c
+	<stdio.h>
+	<math.h>
+
+1541079733 source:d:\self\code blocks\cprogramming\program4.c
+	<stdio.h>
+
+1541417959 source:d:\self\code blocks\cprogramming\program40.c
+	<stdio.h>
+
+1541419689 source:d:\self\code blocks\cprogramming\program41.c
+	<stdio.h>
+
+1541421232 source:d:\self\code blocks\cprogramming\program42.c
+	<stdio.h>
+
+1541421924 source:d:\self\code blocks\cprogramming\program43.c
+	<stdio.h>
+
+1541422345 source:d:\self\code blocks\cprogramming\program44.c
+	<stdio.h>
+
+1541423036 source:d:\self\code blocks\cprogramming\program45.c
+	<stdio.h>
+
+1547811572 source:d:\self\code blocks\cprogramming\program5.c
+	<stdio.h>
+
+1541081902 source:d:\self\code blocks\cprogramming\program6.c
+	<stdio.h>
+	<math.h>
+
+1541082238 source:d:\self\code blocks\cprogramming\program7.c
+
+1541138575 source:d:\self\code blocks\cprogramming\program8.c
+	<stdio.h>
+	<math.h>
+
+1541139070 source:d:\self\code blocks\cprogramming\program9.c
+
